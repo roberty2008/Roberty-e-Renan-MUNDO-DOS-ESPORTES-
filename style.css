@@ -2,6 +2,7 @@ body{
     color:red;
     background: black;
     margin : 0px;
+    font-family: "Playwrite GB S", cursive;
 }
 
 header{
@@ -21,5 +22,5 @@ section{
 }
 
 .chamado-texto {
-  margin-right: 20px;
+  margin-right: 5%;
 }
