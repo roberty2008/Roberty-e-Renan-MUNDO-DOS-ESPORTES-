@@ -1,6 +1,6 @@
 body {
-  color: rgb(223, 23, 23);
-  background: black;
+  color: rgb(64, 63, 63);
+  background: rgba(11, 215, 66, 0.465);
   margin: 0px;
   font-family: "Chakra Petch", sans-serif;
   margin-bottom: 100px;
@@ -33,11 +33,6 @@ p {
   font-size: 20px;
 }
 
-img{
-   height: 200px;
-
-}
-
 .categoria-videos {
   display: flex;
   overflow-x: auto;
@@ -52,14 +47,14 @@ img{
 
 .categoria-videos img {
   opacity: 0.5;
-  height: 100px;
+  height: 200px;
 }
 
 .categoria-videos img:hover {
-  opacity: 0.5;
-  border: 3px solid green;
+  opacity: 1.0;
+  border: 3px solid rgb(245, 7, 7);
 }
 
 .categoria h2 {
-  color: rgb(42, 122, 228);
+  color: rgb(163, 8, 229);
 }
